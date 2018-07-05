@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "express": "latest"
+  }
+}
